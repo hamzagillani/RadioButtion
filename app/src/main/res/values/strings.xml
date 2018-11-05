@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Radio Buttion</string>
+    <string name="hello_word">Hello Word!</string>
+    <string name="title_message">Fruits Name</string>
+    <string name="apple">Apple</string>
+    <string name="orange">Orange</string>
+    <string name="grapes">Grapes</string>
+</resources>
